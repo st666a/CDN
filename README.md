@@ -1,2 +1,0 @@
-# CDN
-jsDelivr CDN emoji
